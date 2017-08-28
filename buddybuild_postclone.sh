@@ -11,4 +11,4 @@ tns --version
 # Prepare NativeScript Project
 echo "******** Prepare NativeScript Android Project *************"
 echo "tns prepare android"
-tns prepare android
+tns build android
